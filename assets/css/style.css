@@ -533,12 +533,12 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
   text-transform: uppercase;
 }
-#hero h2 span {
-  /* color: #f82249; */
-}
-#hero p span {
-  /* color: #f82249; */
-}
+/* #hero h2 span {
+  
+} */
+/* #hero p span {
+
+} */
 @media (max-width: 991px) {
   #hero h2 {
     font-size: 34px;
@@ -1893,7 +1893,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-}
+
 
 #advisory-committee ul {
   padding-left: 1rem;
